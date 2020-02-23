@@ -1,28 +1,20 @@
-Free Bootstrap theme for project documentation
-
-Theme name:
+Name:
 =======================================================================
-PrettyDocs
+PrettyRussian
 
-Theme version:
+Version:
 =======================================================================
-v1.1
+v1.0
 
 Release Date:
 =======================================================================
-15 June 2016
+23 February 2020
 
 Author: 
 =======================================================================
-Xiaoying Riley at 3rd Wave Media (http://themes.3rdwavemedia.com/)
+Королева Анна Сергеевна
 
 Contact:
 =======================================================================
-Web: http://themes.3rdwavemedia.com/
-Email: themes@3rdwavemedia.com
-Twitter: @3rdwave_themes
+Web: https://vk.com/id386574503
 
-License: 
-=======================================================================
-This template is free under the Creative Commons Attribution 3.0 License.
-https://creativecommons.org/licenses/by/3.0/
